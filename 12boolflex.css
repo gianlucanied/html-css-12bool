@@ -394,7 +394,7 @@
 
 @media all and (min-width: 992px) {
     .container {
-            max-width: 960px;
+            min-width: 960px;
         }
     
     .col-lg {

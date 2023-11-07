@@ -3,6 +3,7 @@
     border: solid 2px white;
     min-height: 50px;
     padding: 10px;
+    text-align: center;
 }
 
 .col-lg-6 div {
